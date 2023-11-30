@@ -1,2 +1,2 @@
-# Computer Vision RPS
-Created model and label using Teachable-Machine to use for my rock paper scissors project
+# Computer Vision Rock Paper Scissors
+Creates an image model with four different classes : Rock, Paper, Scissors, Nothing and label using Teachable-Machine.
